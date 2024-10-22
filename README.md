@@ -9,8 +9,8 @@ You can also pull from remote to get their latest changes
 **IMPORTANT:** cloning is only done once. Once you have a repository cloned, you can simply run `git pull` to update it in the future, you never* need to clone the same repo twice. (* there are always exceptions)
 
 Steps:
-- Click the green "clone" button on the main page of the repository
-- Select "https" and copy the URL
+- Click the green "code" button on the main page of the repository
+- Select "https" and copy the URL (should be selected by default)
 - Open your terminal and type the command `git clone <url>`
 
 After you complete this, you should now find the repository as a folder on your computer.
