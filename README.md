@@ -33,3 +33,6 @@ Once you have cloned the repository you can now make any desired changes and pus
 - `git commit`: This makes a "commit" which is a building block of git. a commit is essentially a snapshot of the repository at this state and time. You can add the "-m" flag in order to add a message. this message helps you know what the purpose of the commit is.
 - `git push`: This updates the remote repository with your new changes. `origin main` corresponds to the branch name that you are pushing to. More on branches later.
 
+## Finally
+Once you have run the `git push` command, navigate to this repository and refresh the page. You should see your commit and your new changes in the file here on the remote repository.
+
