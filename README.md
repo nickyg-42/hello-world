@@ -1,10 +1,10 @@
 # hello-world
 Get acquainted with git and github
 
-### Getting started
+## Getting started
 In order to contribute, you have to **clone the repository**.
 
-Cloning creates a local copy of the remote repository. You can edit your local copy, and push it back to remote.
+Extra Info: Cloning creates a local copy of the remote repository. You can edit your local copy, and push it back to remote.
 Then, other people can pull from remote in order to updated their locals with your latest changes.
 You can also pull from remote to get their latest changes
 
@@ -17,4 +17,4 @@ Steps:
 
 After you complete this, you should now find the repository as a folder on your computer.
 
-### Contributing
+## Contributing
