@@ -34,5 +34,5 @@ Once you have cloned the repository you can now make any desired changes and pus
 - `git push`: This updates the remote repository with your new changes. `origin main` corresponds to the branch name that you are pushing to. More on branches later.
 
 ## Finally
-Once you have run the `git push` command, navigate to this repository and refresh the page. You should see your commit and your new changes in the file here on the remote repository.
+Once you have run the `git push` command, navigate to this repository in your browser and refresh the page. You should see your commit and your new changes in the file here on the remote repository.
 
