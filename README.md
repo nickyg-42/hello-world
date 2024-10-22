@@ -31,5 +31,5 @@ Once you have cloned the repository you can now make any desired changes and pus
 ### Command Explenations
 - `git add`: This essentially tells git which files you want to push back to remote
 - `git commit`: This makes a "commit" which is a building block of git. a commit is essentially a snapshot of the repository at this state and time. You can add the "-m" flag in order to add a message. this message helps you know what the purpose of the commit is.
-- `git push`: This updates the remote repository with your new changes. `origin main` corresponds to the branch name that you are pushing too. More on branches later.
+- `git push`: This updates the remote repository with your new changes. `origin main` corresponds to the branch name that you are pushing to. More on branches later.
 
