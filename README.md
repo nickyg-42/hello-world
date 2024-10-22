@@ -11,7 +11,7 @@ You can also pull from remote to get their latest changes
 Steps:
 - Click the green "code" button on the main page of the repository
 - Select "https" and copy the URL (should be selected by default)
-- Open your terminal and type the command `git clone <url>`
+- Open your terminal and type the command `git clone <paste the url here>`
 
 After you complete this, you should now find the repository as a folder on your computer.
 
